@@ -8,14 +8,17 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "plop":"plop component"
+    "plop": "plop"
   },
   "keywords": [
     "wwz-cli",
     "wwz",
     "脚手架"
   ],
-  "author": "wwz",
+  "author": {
+    "name": "wwz",
+    "email": "1255340634@qq.com"
+  },
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
